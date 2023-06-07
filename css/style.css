@@ -296,6 +296,7 @@ h4 a {
 .elements ul li a img {
     width: 13px;
     padding-right: 3px;
+    margin:0;
 }
 
 .elements ul li span {
